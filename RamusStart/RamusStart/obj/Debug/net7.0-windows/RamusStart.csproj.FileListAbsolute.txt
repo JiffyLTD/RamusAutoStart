@@ -1,0 +1,15 @@
+D:\Projects\RamusAutoStart\RamusStart\RamusStart\bin\Debug\net7.0-windows\RamusStart.exe
+D:\Projects\RamusAutoStart\RamusStart\RamusStart\bin\Debug\net7.0-windows\RamusStart.deps.json
+D:\Projects\RamusAutoStart\RamusStart\RamusStart\bin\Debug\net7.0-windows\RamusStart.runtimeconfig.json
+D:\Projects\RamusAutoStart\RamusStart\RamusStart\bin\Debug\net7.0-windows\RamusStart.dll
+D:\Projects\RamusAutoStart\RamusStart\RamusStart\bin\Debug\net7.0-windows\RamusStart.pdb
+D:\Projects\RamusAutoStart\RamusStart\RamusStart\obj\Debug\net7.0-windows\RamusStart.csproj.AssemblyReference.cache
+D:\Projects\RamusAutoStart\RamusStart\RamusStart\obj\Debug\net7.0-windows\RamusStart.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\RamusAutoStart\RamusStart\RamusStart\obj\Debug\net7.0-windows\RamusStart.AssemblyInfoInputs.cache
+D:\Projects\RamusAutoStart\RamusStart\RamusStart\obj\Debug\net7.0-windows\RamusStart.AssemblyInfo.cs
+D:\Projects\RamusAutoStart\RamusStart\RamusStart\obj\Debug\net7.0-windows\RamusStart.csproj.CoreCompileInputs.cache
+D:\Projects\RamusAutoStart\RamusStart\RamusStart\obj\Debug\net7.0-windows\RamusStart.dll
+D:\Projects\RamusAutoStart\RamusStart\RamusStart\obj\Debug\net7.0-windows\refint\RamusStart.dll
+D:\Projects\RamusAutoStart\RamusStart\RamusStart\obj\Debug\net7.0-windows\RamusStart.pdb
+D:\Projects\RamusAutoStart\RamusStart\RamusStart\obj\Debug\net7.0-windows\RamusStart.genruntimeconfig.cache
+D:\Projects\RamusAutoStart\RamusStart\RamusStart\obj\Debug\net7.0-windows\ref\RamusStart.dll
