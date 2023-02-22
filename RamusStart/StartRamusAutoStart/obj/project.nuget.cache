@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oRDqPlUTP2C+AXZYV8sRNwPl/VhzXI9ImofNTt5x4QGHt+tK37+9GBBjjM3EUPBp2DDEdvXZ67F8lfovbxRYow==",
+  "success": true,
+  "projectFilePath": "A:\\CSharpPROJECTS\\RamusAutoStart\\RamusStart\\StartRamusAutoStart\\StartRamus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akope\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\akope\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\akope\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\akope\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
