@@ -6,7 +6,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <UseWindowsForms>True</UseWindowsForms>
+    <ApplicationIcon>bin\Release\net6.0-windows\arrow_triangle_down_17900.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Release\net6.0-windows\arrow_triangle_down_17900.ico" />
+  </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\PathFinder\PathFinder.csproj" />
