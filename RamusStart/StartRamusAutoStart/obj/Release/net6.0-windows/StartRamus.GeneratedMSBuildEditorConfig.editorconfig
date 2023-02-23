@@ -14,4 +14,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StartRamus
-build_property.ProjectDir = A:\CSharpPROJECTS\RamusAutoStart\RamusStart\StartRamusAutoStart\
+build_property.ProjectDir = D:\Projects\RamusAutoStart\RamusStart\StartRamusAutoStart\

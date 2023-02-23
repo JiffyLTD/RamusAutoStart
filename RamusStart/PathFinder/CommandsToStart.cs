@@ -15,7 +15,7 @@ namespace PathFinder
             //command to start programm
             string startRamus = "java -jar ramus-startup.jar";
 
-            string[] commands = {"cd " + changeDisk,"cd " + ramusPath,"path " + javaPath, startRamus };
+            string[] commands = {changeDisk ,"cd " + ramusPath,"path " + javaPath, startRamus };
 
             return commands;
         }

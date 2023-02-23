@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "A:\\CSharpPROJECTS\\RamusAutoStart\\RamusStart\\PathFinder\\PathFinder.csproj": {}
+    "D:\\Projects\\RamusAutoStart\\RamusStart\\PathFinder\\PathFinder.csproj": {}
   },
   "projects": {
-    "A:\\CSharpPROJECTS\\RamusAutoStart\\RamusStart\\PathFinder\\PathFinder.csproj": {
+    "D:\\Projects\\RamusAutoStart\\RamusStart\\PathFinder\\PathFinder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\CSharpPROJECTS\\RamusAutoStart\\RamusStart\\PathFinder\\PathFinder.csproj",
+        "projectUniqueName": "D:\\Projects\\RamusAutoStart\\RamusStart\\PathFinder\\PathFinder.csproj",
         "projectName": "PathFinder",
-        "projectPath": "A:\\CSharpPROJECTS\\RamusAutoStart\\RamusStart\\PathFinder\\PathFinder.csproj",
-        "packagesPath": "C:\\Users\\akope\\.nuget\\packages\\",
-        "outputPath": "A:\\CSharpPROJECTS\\RamusAutoStart\\RamusStart\\PathFinder\\obj\\",
+        "projectPath": "D:\\Projects\\RamusAutoStart\\RamusStart\\PathFinder\\PathFinder.csproj",
+        "packagesPath": "C:\\Users\\gosha\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\RamusAutoStart\\RamusStart\\PathFinder\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\akope\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gosha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,24 +55,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.14, 6.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.14, 6.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.14, 6.0.14]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.14, 6.0.14]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -76,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
